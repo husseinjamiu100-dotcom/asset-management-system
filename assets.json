@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "name": "Dell XPS 15 Laptop",
+    "status": "Available",
+    "created_at": "2024-01-15 09:00:00",
+    "updated_at": "2024-01-15 09:00:00"
+  },
+  {
+    "id": 2,
+    "name": "MacBook Pro 16\"",
+    "status": "Assigned",
+    "created_at": "2024-01-15 09:15:00",
+    "updated_at": "2024-01-15 09:15:00"
+  },
+  {
+    "id": 3,
+    "name": "Lenovo ThinkPad X1",
+    "status": "Available",
+    "created_at": "2024-01-15 09:30:00",
+    "updated_at": "2024-01-15 09:30:00"
+  },
+  {
+    "id": 4,
+    "name": "HP EliteBook 840",
+    "status": "Assigned",
+    "created_at": "2024-01-15 09:45:00",
+    "updated_at": "2024-01-15 09:45:00"
+  },
+  {
+    "id": 5,
+    "name": "Microsoft Surface Pro 9",
+    "status": "Available",
+    "created_at": "2024-01-15 10:00:00",
+    "updated_at": "2024-01-15 10:00:00"
+  },
+  {
+    "id": 6,
+    "name": "LG 34\" Ultrawide Monitor",
+    "status": "Available",
+    "created_at": "2024-01-15 10:15:00",
+    "updated_at": "2024-01-15 10:15:00"
+  },
+  {
+    "id": 7,
+    "name": "Dell 27\" 4K Monitor",
+    "status": "Assigned",
+    "created_at": "2024-01-15 10:30:00",
+    "updated_at": "2024-01-15 10:30:00"
+  },
+  {
+    "id": 8,
+    "name": "Samsung 32\" Curved Monitor",
+    "status": "Available",
+    "created_at": "2024-01-15 10:45:00",
+    "updated_at": "2024-01-15 10:45:00"
+  },
+  {
+    "id": 9,
+    "name": "Logitech MX Master 3 Mouse",
+    "status": "Assigned",
+    "created_at": "2024-01-15 11:00:00",
+    "updated_at": "2024-01-15 11:00:00"
+  },
+  {
+    "id": 10,
+    "name": "Apple Magic Keyboard",
+    "status": "Available",
+    "created_at": "2024-01-15 11:15:00",
+    "updated_at": "2024-01-15 11:15:00"
+  },
+  {
+    "id": 11,
+    "name": "Bose Noise Cancelling Headphones",
+    "status": "Assigned",
+    "created_at": "2024-01-15 11:30:00",
+    "updated_at": "2024-01-15 11:30:00"
+  },
+  {
+    "id": 12,
+    "name": "Logitech C920 Webcam",
+    "status": "Available",
+    "created_at": "2024-01-15 11:45:00",
+    "updated_at": "2024-01-15 11:45:00"
+  },
+  {
+    "id": 13,
+    "name": "Blue Yeti Microphone",
+    "status": "Available",
+    "created_at": "2024-01-15 12:00:00",
+    "updated_at": "2026-02-28 04:37:52"
+  },
+  {
+    "id": 15,
+    "name": "Samsung Galaxy Tab S9",
+    "status": "Available",
+    "created_at": "2024-01-15 12:30:00",
+    "updated_at": "2024-01-15 12:30:00"
+  },
+  {
+    "id": 16,
+    "name": "HP LaserJet Printer",
+    "status": "Assigned",
+    "created_at": "2024-01-15 12:45:00",
+    "updated_at": "2024-01-15 12:45:00"
+  },
+  {
+    "id": 17,
+    "name": "Epson Projector",
+    "status": "Available",
+    "created_at": "2024-01-15 13:00:00",
+    "updated_at": "2024-01-15 13:00:00"
+  },
+  {
+    "id": 18,
+    "name": "Poly Studio Soundbar",
+    "status": "Available",
+    "created_at": "2024-01-15 13:15:00",
+    "updated_at": "2024-01-15 13:15:00"
+  },
+  {
+    "id": 19,
+    "name": "Anker PowerCore Battery",
+    "status": "Assigned",
+    "created_at": "2024-01-15 13:30:00",
+    "updated_at": "2024-01-15 13:30:00"
+  }
+]
